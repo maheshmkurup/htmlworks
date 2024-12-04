@@ -1,0 +1,80 @@
+HTML
+
+HyperTextMarkupLanguage
+
+front end
+
+webpage structure
+
+.html extension
+
+<tag> => opening
+
+</tag> => closing
+
+shift+!=to get structure
+
+html:5=  "
+
+<!--  => to comment
+
+in html 2 types of elements
+1.) block elements   (full width from left to right)
+2.)inline elements (takes only the content length width)
+
+heading(H)=block elements
+span=inline element
+label=inline element 
+
+<strong>  = make content bold
+
+<em> = make content italics
+
+<nav>  = name bar section
+
+<footer> = footer section
+
+<aside> = side section(left or right)
+
+<main> = centre section
+
+<section>= for sub section
+
+hyperlink(to redirect) tag =<a href>
+
+imag=img src=source(./)
+
+ordered list=<ol><li> to list using numbers
+
+<ol type=a => print in a b c
+
+unordered list =<ul>
+
+<table> to start a table
+
+<tr> table row
+
+<th> table heading
+
+<td> table data 
+
+<form> to get form
+
+<label> to set for uneditable text
+
+<input> for text boxes
+
+<select> <option> dropdownlist
+
+<textarea> big text 2 attributes rows cols
+
+<placeholder>-to give value as a watermark in textbox
+
+for all tag we can give id and class(properties)
+
+to focus => label for = idname
+
+radiobutton=same name different values(to select only one) => radiobutton
+
+checkbox => checkbox
+
